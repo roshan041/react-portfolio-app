@@ -1,6 +1,7 @@
 # Getting Started
 
 this project was built from scratch without using CRA
+here we have used class based components approach to create components
 ## Available Scripts
 
 In the project directory, you can run:
